@@ -6,3 +6,4 @@
 * [JamStack](https://jamstack.org/what-is-jamstack/)
 * [Microservices](https://microservices.io/)
 * [SOA](https://www.w3schools.in/service-oriented-architecture/)
+* [Developer to Architect](https://www.developertoarchitect.com/lessons/lesson1.html)
